@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GamerDan123
+- 👀 I’m interested in computer stuff
+- 🌱 I’m currently learning JavaScript 
+- 💞️ I’m looking to collaborate with your mother
+- 📫 How to reach me? Don't
